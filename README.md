@@ -10,9 +10,9 @@ DaVinci и Lightroom, разбирает Рабочий стол, архивир
 
 | Компьютер | Файл |
 |---|---|
-| Мак на M1–M4 (Apple Silicon) | `Bin-…-arm64.dmg` |
-| Мак на Intel | `Bin-…-x64.dmg` |
-| Windows | `Bin-Setup-….exe` |
+| Мак на M1–M4 (Apple Silicon) | `Bin-…-macOS-Apple-Silicon-arm64.dmg` |
+| Мак на Intel | `Bin-…-macOS-Intel.dmg` |
+| Windows | `Bin-…-Windows-Setup.exe` |
 
 ## Установка на Мак
 
